@@ -1,3 +1,2 @@
-class Model
-
+class Model 
 end
